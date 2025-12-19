@@ -1,2 +1,2 @@
-# info--Ai-addition-
-I used AI for CSS
+# Info
+WEB designed info of me
